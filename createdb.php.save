@@ -1,0 +1,16 @@
+<form action="connect.php" method="post">
+<p>Username: <input type="text" name="user"/></p>
+<p>Password: <input type="text" name="pw"/></p>
+<p>Database: <input type="text" name="db"/></p>
+<input type="submi<html>
+<head>
+</head>
+<body>
+<form action ="query.php" method="post">
+<p>Title: <input type="text" name="title"/></p>
+<p>Author: <input type="text" name="author"/></p>
+<p>Series: <input type="text" name="series"/></p>
+<input type="Submit"/>
+</form>
+</body>
+</html>
